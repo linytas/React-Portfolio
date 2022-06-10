@@ -1,0 +1,19 @@
+.navigation {
+    position: absolute;
+    width: 100%;
+    padding: 10px 0px;
+    background: linear-gradient(rgba(20, 20, 20, 0.1), rgba(20, 20, 20, 0.1));
+  }
+  
+  .logo img {
+    max-width: 90px;
+  }
+  .primary-nav {
+    padding-right: 50px;
+  }
+  .primary-nav li {
+    display: inline-block;
+    margin: 0px 20px;
+    color: white;
+    font-size: 13pt;
+}
